@@ -1,0 +1,106 @@
+body{
+    font-family: "Open Sans";
+}
+.header {
+    background-color: #cc0066;
+    width: 30px;
+    height: 20px;
+    padding: 1px 15px 7px 7px;
+    border-radius: 3px;
+    float: right;
+}
+.main-container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    text-align: left;
+}
+h1 {
+    margin-top: 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+img {
+    width: 800px;
+}
+.main-container h2 {
+    color: grey;
+    font-size: 14px;
+    margin-top: 30px;
+}
+div h3:first-of-type{
+    font-weight: bold;
+    font-size: 14px;
+    color: #616161;
+    text-align: left;
+
+}
+.main-container p {
+    color: grey;
+    font-size: 14px;
+    text-align: left;
+
+
+}
+#icon1 {
+    text-align: left;
+    width: 300px;!important;
+    height: 60px;
+    background-color: midnightblue;
+    border: 2px;
+    margin: 10px;
+}
+#icon2 {
+    text-align: left;
+    width: 90px;
+    height: 40px;
+    background-color: red;
+    border: 2px;
+}
+#icon3 {
+    text-align: left;
+    width: 90px;
+    height: 40px;
+    background-color: dodgerblue;
+    border: 2px;
+}
+#icon4 {
+    text-align: left;
+    width: 90px;
+    height: 40px;
+    background-color: blue;
+    border: 2px;
+}#icon5 {
+     text-align: left;
+     width: 90px;
+     height: 40px;
+     background-color: darkred;
+     border: 2px;
+ }
+
+
+.material-icons {
+    float: left;
+    display: block;!important;
+    /*margin: 50px 50px 50px 20px ;*/
+}
+.footer {
+    width: 800px;
+    height: 200px;
+    background-color: #e8e8e8;
+    margin-top: 20px;
+
+}
+.avatarfooter {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 50px;
+}
