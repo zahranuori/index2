@@ -85,22 +85,36 @@ div h3:first-of-type{
      border: 2px;
  }
 
-
-.material-icons {
-    float: left;
-    display: block;!important;
-    /*margin: 50px 50px 50px 20px ;*/
-}
 .footer {
     width: 800px;
     height: 200px;
     background-color: #e8e8e8;
-    margin-top: 20px;
-
+    margin-top: 50px;
+    border-radius: 3px;
 }
 .avatarfooter {
     width: 100px;
     height: 100px;
     border-radius: 100%;
     margin: 50px;
+    display: inline-block;
+}
+.row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2{
+    flex-basis: 50%;
+    min-width: 300px;
+}
+.col-2 img {
+    max-width: 100%;
+    padding: 50px 0;
+}
+.col-2 h2 p {
+    font-size: 50px;
+    line-height: 60px;
+    margin: 25px 0;
 }
