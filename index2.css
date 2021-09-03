@@ -3,131 +3,131 @@ body{
 }
 .header {
     background-color: #cc0066;
-    width: 30px;
-    height: 20px;
-    padding: 1px 15px 7px 7px;
-    border-radius: 3px;
+    width: 1.875rem;
+    height: 1.25rem;
+    padding: 0.0625rem 0.9375rem 0.4375rem 0.4375rem;
+    border-radius: 0.1875rem;
     float: right;
 }
 .main-container {
-    width: 800px;
+    width: 50rem;
     margin: auto;
     background-color: white;
     text-align: left;
 }
 h1 {
-    margin-top: 0px;
+    margin-top: 0rem;
 }
 .span_heder {
-    margin-right: 20px;
-    font-size: 11px;
+    margin-right: 1.25rem;
+    font-size: 0.6875rem;
 
 }
 img {
-    width: 800px;
+    width: 50rem;
 }
 .main-container h4 {
     color: #616161;
-    margin: 22px 0px 10px 0px;
-    padding-top: 30px;
+    margin: 1.375rem 0 0.625rem 0;
+    padding-top: 1.875rem;
 }
 div h3:first-of-type{
     font-weight: bold;
-    font-size: 14px;
+    font-size: 0.875rem;
     color: #616161;
     text-align: left;
 
 }
 .main-container p {
     color: grey;
-    font-size: 14px;
+    font-size: 0.875rem;
     text-align: left;
 
 
 }
 .icon1 {
     text-align: center;
-    height:25px;
-    width: 90px;
+    height:1.5625rem;
+    width: 5.625rem;
     background-color: midnightblue;
     color: #e8e8e8;
     display: inline-block;
-    border-radius: 2px;
+    border-radius: 0.125rem;
 }
 .icon2 {
     text-align: center;
-    height:25px;
-    width: 90px;
+    height:1.5625rem;
+    width: 5.625rem;
     background-color: dodgerblue;
     color: #e8e8e8;
     display: inline-block;
-    border-radius: 2px;
+    border-radius: 0.125rem;
 }
 .icon3 {
     text-align: center;
-    height:25px;
-    width: 90px;
+    height:1.5625rem;
+    width: 5.625rem;
     background-image: linear-gradient(to right,purple, orange);
     color: #e8e8e8;
     display: inline-block;
-    border-radius: 2px;
+    border-radius: 0.125rem;
 }
 .icon4 {
     text-align: center;
-    height:25px;
-    width: 90px;
+    height:1.5625rem;
+    width: 5.625rem;
     background-color: rgba(23,107,229,0.82);
     color: #e8e8e8;
     display: inline-block;
-    border-radius: 2px;
+    border-radius: 0.125rem;
 }
 .icon5 {
     text-align: center;
-    height:25px;
-    width: 90px;
+    height:1.5625rem;
+    width: 5.625rem;
     background-color: darkred;
     color: #e8e8e8;
     display: inline-block;
-    border-radius: 2px;
+    border-radius: 0.125rem;
 }
 
 
 .footer {
-    width: 800px;
-    height: 200px;
+    width: 50rem;
+    height: 12.5rem;
     background-color: #e8e8e8;
     margin-top: 50px;
     border-radius: 3px;
 }
 .avatarfooter {
-    width: 100px;
-    height: 100px;
+    width: 6.25rem;
+    height: 6.25rem;
     border-radius: 100%;
-    margin: 50px;
+    margin: 3.125rem;
     float: left;
     /*display: inline-block;*/
 }
 .row {
     background-color: #e8e8e8;
-    width: 800px;
-    height: 200px;
-    border-radius: 2px;
-    margin: 10px 0 10px 0;
+    width: 50rem;
+    height: 12.5rem;
+    border-radius: 0.125rem;
+    margin: 0.625rem 0 0.625rem 0;
 }
 .row h2 span {
     text-align: left;
 
 }
 #next {
-    margin: 20px 0px 0px 10px
+    margin: 1.25rem 0px 0px 0.625rem;
 }
 #previous {
-    margin: 20px 10px 0px 0px;
+    margin: 1.25px 0.625px 0px 0px;
 
 }
 .box {
-    width:800px;
-    height: 60px;
+    width:50rem;
+    height: 3.75rem;
     box-shadow: #616161;
 
 }
