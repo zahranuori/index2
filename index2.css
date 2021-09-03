@@ -1,6 +1,6 @@
-body{
-    font-family: "Open Sans";
-}
+/*body{*/
+/*    font-family: "Open Sans";*/
+/*}*/
 .header {
     background-color: #cc0066;
     width: 1.875rem;
@@ -122,7 +122,7 @@ div h3:first-of-type{
     margin: 1.25rem 0px 0px 0.625rem;
 }
 #previous {
-    margin: 1.25px 0.625px 0px 0px;
+    margin: 1.25rem 0.625rem 0 0;
 
 }
 .box {
@@ -130,6 +130,15 @@ div h3:first-of-type{
     height: 3.75rem;
     box-shadow: #616161;
 
+}
+@media screen and (min-width: 375px) {
+    h2 {
+        font-size: 1.8rem;
+    }
+}
+
+html {
+    font-family: "Open Sans"; sans-serif;
 }
 
 
